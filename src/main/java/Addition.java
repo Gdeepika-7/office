@@ -1,4 +1,4 @@
-package com.qualizeal.javaapp.mathematics;
+package mathematics;
 
 public class Addition{
 public void add() {
